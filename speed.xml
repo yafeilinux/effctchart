@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<results>
+    <row>
+        <speedTrap>0</speedTrap>
+        <driver>Fittipaldi</driver>
+        <speed>104.12</speed>
+     </row>
+    <row><speedTrap>1</speedTrap><driver>Fittipaldi</driver><speed>115.12</speed></row>
+    <row><speedTrap>2</speedTrap><driver>Fittipaldi</driver><speed>175.23</speed></row>
+<row><speedTrap>3</speedTrap><driver>Fittipaldi</driver><speed>104.43</speed></row>
+<row><speedTrap>4</speedTrap><driver>Fittipaldi</driver><speed>111.84</speed></row>
+<row><speedTrap>5</speedTrap><driver>Fittipaldi</driver><speed>99.37</speed></row>
+<row><speedTrap>6</speedTrap><driver>Fittipaldi</driver><speed>42.87</speed></row>
+<row><speedTrap>7</speedTrap><driver>Fittipaldi</driver><speed>72.87</speed></row>
+<row><speedTrap>8</speedTrap><driver>Fittipaldi</driver><speed>98.17</speed></row>
+<row><speedTrap>9</speedTrap><driver>Fittipaldi</driver><speed>71.87</speed></row>
+<row><speedTrap>10</speedTrap><driver>Fittipaldi</driver><speed>115.87</speed></row>
+<row><speedTrap>11</speedTrap><driver>Fittipaldi</driver><speed>155.84</speed></row>
+<row><speedTrap>12</speedTrap><driver>Fittipaldi</driver><speed>161.85</speed></row>
+<row><speedTrap>13</speedTrap><driver>Fittipaldi</driver><speed>154.87</speed></row>
+<row><speedTrap>14</speedTrap><driver>Fittipaldi</driver><speed>187.54</speed></row>
+<row><speedTrap>15</speedTrap><driver>Fittipaldi</driver><speed>216.87</speed></row>
+<row><speedTrap>16</speedTrap><driver>Fittipaldi</driver><speed>79.37</speed></row>
+<row><speedTrap>17</speedTrap><driver>Fittipaldi</driver><speed>143.87</speed></row>
+<row><speedTrap>18</speedTrap><driver>Fittipaldi</driver><speed>95.85</speed></row>
+<row><speedTrap>19</speedTrap><driver>Fittipaldi</driver><speed>154.87</speed></row>
+</results>

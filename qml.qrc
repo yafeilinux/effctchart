@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>speed.xml</file>
+        <file>border.png</file>
+        <file>circle.png</file>
+    </qresource>
+</RCC>
